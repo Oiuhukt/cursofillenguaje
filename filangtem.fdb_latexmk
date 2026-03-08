@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1773001562.84647 "filangtem.tex" "filangtem.pdf" "filangtem" 1773001563.14346 0
+["pdflatex"] 1773005001.30582 "filangtem.tex" "filangtem.pdf" "filangtem" 1773005001.41456 0
   "/home/oiuhukt/.texlive2026/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1773001563.09894 11524 71d12ec97530cb1445b6ce0fc95884bf ""
   "/home/oiuhukt/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/home/oiuhukt/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -29,8 +29,8 @@
   "/home/oiuhukt/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1772998054 76055 1fb39d7b0364070f9c96716c392e69d1 ""
   "/home/oiuhukt/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1772998069 2286256 991e2109acf77dff5b0529b34354d5a0 ""
   "/home/oiuhukt/2026/texmf.cnf" 1772998054.14976 502 34a87d873ac5069ad1b7923ccd728c64 ""
-  "filangtem.aux" 1773001562.9253 670 0e45d61cd166f2361d0d6b1021023ee2 "pdflatex"
-  "filangtem.tex" 1773001538.73538 16902 b90711b8a08d5ec24cac02a36fbeeaca ""
+  "filangtem.aux" 1773005001.38753 560 e9ecdd8c4009f6da76702a696756f3a8 "pdflatex"
+  "filangtem.tex" 1773005000.29655 16982 bc38151e11ba11f6a4edc147c7f38703 ""
   (generated)
   "filangtem.aux"
   "filangtem.log"

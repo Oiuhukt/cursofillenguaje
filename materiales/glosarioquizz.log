@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.8)  9 MAR 2026 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.8)  9 MAR 2026 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/oiuhukt/work/cursofillenguaje/filangtem.tex
-(/home/oiuhukt/work/cursofillenguaje/filangtem.tex
+**/home/oiuhukt/work/cursofillenguaje/materiales/glosarioquizz.tex
+(/home/oiuhukt/work/cursofillenguaje/materiales/glosarioquizz.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (/home/oiuhukt/2026/texmf-dist/tex/latex/tufte-latex/tufte-handout.cls
@@ -348,7 +348,8 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 (/home/oiuhukt/2026/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
-) (./filangtem.bbl)
+)
+No file glosarioquizz.bbl.
 \c@@tufte@num@bibkeys=\count307
 (/home/oiuhukt/2026/texmf-dist/tex/latex/sauerj/optparams.sty
 Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
@@ -486,8 +487,8 @@ Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
 )
-(./filangtem.aux)
-\openout1 = `filangtem.aux'.
+(./glosarioquizz.aux)
+\openout1 = `glosarioquizz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -508,9 +509,8 @@ LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 Package hyperref Info: Link coloring OFF on input line 13.
- (./filangtem.out) (./filangtem.out)
 \@outlinefile=\write3
-\openout3 = `filangtem.out'.
+\openout3 = `glosarioquizz.out'.
 
 
 *geometry* driver: auto-detecting
@@ -563,67 +563,19 @@ Package hyperref Info: Link coloring OFF on input line 13.
 \everyMPtoPDFconversion=\toks27
 )
 \big@size=\dimen180
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-43.
- (/home/oiuhukt/2026/texmf-dist/tex/latex/psnfss/ts1pplj.fd
-File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) [1
+)
+! Emergency stop.
+<*> ...rsofillenguaje/materiales/glosarioquizz.tex
+                                                  
+*** (job aborted, no legal \end found)
 
-{/home/oiuhukt/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/oiuhukt
-/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-
-Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
-set up.
-This message occurred on input line 166.
-
-[2]
-
-Package bibentry Warning: You have used \nobibliography* 
-(bibentry)                without a following \bibliography.
-(bibentry)                You may not be able to run BibTeX.
-
-
-Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
-set up.
-This message occurred on input line 167.
-
-[3] (./filangtem.aux)
- ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
- ***********
-
-
-Package rerunfilecheck Warning: File `filangtem.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `filangtem.out':
-(rerunfilecheck)             Before: 818DC7327E3AB28879A2D3129D69D5EF;514
-(rerunfilecheck)             After:  1646DF29B6394DF62C4237394B69731A;513.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 12382 strings out of 469472
- 194461 string characters out of 5468903
- 635813 words of memory out of 5000000
- 40815 multiletter control sequences out of 15000+600000
- 653279 words of font info for 72 fonts, out of 8000000 for 9000
+ 12275 strings out of 469472
+ 192910 string characters out of 5468903
+ 625741 words of memory out of 5000000
+ 40757 multiletter control sequences out of 15000+600000
+ 636023 words of font info for 46 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 97i,11n,101p,368b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.10} has been referenced but does not exist
-, replaced by a fixed one
-
-</home/oiuhukt/2026/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></home/oiuhuk
-t/2026/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></home/oiuhukt/2026/texmf-
-dist/fonts/type1/public/fpl/fplrij8a.pfb></home/oiuhukt/2026/texmf-dist/fonts/t
-ype1/urw/palatino/uplb8a.pfb></home/oiuhukt/2026/texmf-dist/fonts/type1/urw/pal
-atino/uplbi8a.pfb></home/oiuhukt/2026/texmf-dist/fonts/type1/urw/palatino/uplr8
-a.pfb></home/oiuhukt/2026/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on filangtem.pdf (3 pages, 103333 bytes).
-PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 97i,0n,101p,748b,386s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
